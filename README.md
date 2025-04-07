@@ -1,0 +1,2 @@
+# sentimentalGetNews
+感情解析のために用いたニュース記事の一覧表をPDFにまとめたもの
